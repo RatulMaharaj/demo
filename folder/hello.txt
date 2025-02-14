@@ -1,0 +1,6 @@
+My name is Ratul Maharaj
+
+
+Source control system
+- keep track of files in fodlers
+- save your progress by creating 'commits'
