@@ -2,5 +2,5 @@ My name is Ratul Maharaj
 
 
 Source control system
-- keep track of files in fodlers
+- keep track of files in folders
 - save your progress by creating 'commits'
